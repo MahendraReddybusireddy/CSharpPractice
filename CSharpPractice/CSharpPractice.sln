@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrey for loop example", "a
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleStatement", "ConsoleStatement\ConsoleStatement.csproj", "{275624A5-DF6C-403E-83AE-83A9DBF27803}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if example", "if example\if example.csproj", "{8CB5586C-4DEE-4E8B-AE5B-5A607460E92A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{275624A5-DF6C-403E-83AE-83A9DBF27803}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{275624A5-DF6C-403E-83AE-83A9DBF27803}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{275624A5-DF6C-403E-83AE-83A9DBF27803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CB5586C-4DEE-4E8B-AE5B-5A607460E92A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB5586C-4DEE-4E8B-AE5B-5A607460E92A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB5586C-4DEE-4E8B-AE5B-5A607460E92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB5586C-4DEE-4E8B-AE5B-5A607460E92A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
