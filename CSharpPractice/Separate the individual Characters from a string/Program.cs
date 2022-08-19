@@ -4,8 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Separate_the_individual_Characters_from_a_string
-{
+namespace 
     internal class Program
     {
        public  static void Main()

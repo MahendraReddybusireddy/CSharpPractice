@@ -11,15 +11,15 @@ namespace string_in_reverse_order
         public static void Main()
         {
             string str;
-            int I = 0;
+            int length = 0;
             Console.Write("Input the string :");
             str = Console.ReadLine();
-            I = str.Length - 1;
-            Console.Write(" The characters of the string in reverse are : \n");
-            while (I >= 0)
+            length = str.Length -1;
+            Console.Write(" The characters of the string in reverse order : \n");
+            while (length >= 0)
             {
-                Console.Write("{0}", str[1]);
-                I --;
+                Console.Write("{0}", str[length]);
+                length--;
             }
             Console.Write("\n\n");
             Console.ReadLine();
