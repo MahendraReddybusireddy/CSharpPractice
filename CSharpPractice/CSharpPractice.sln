@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "total number of words in th
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "number of words in the string", "number of words in the string\number of words in the string.csproj", "{E367084D-D2CB-41E7-901E-8C301D4D9480}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strings", "strings\strings.csproj", "{AE805D9E-EF93-424E-8F78-8162B3898489}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,14 @@ Global
 		{E367084D-D2CB-41E7-901E-8C301D4D9480}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E367084D-D2CB-41E7-901E-8C301D4D9480}.Release|x86.ActiveCfg = Release|Any CPU
 		{E367084D-D2CB-41E7-901E-8C301D4D9480}.Release|x86.Build.0 = Release|Any CPU
+		{AE805D9E-EF93-424E-8F78-8162B3898489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE805D9E-EF93-424E-8F78-8162B3898489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE805D9E-EF93-424E-8F78-8162B3898489}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AE805D9E-EF93-424E-8F78-8162B3898489}.Debug|x86.Build.0 = Debug|Any CPU
+		{AE805D9E-EF93-424E-8F78-8162B3898489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE805D9E-EF93-424E-8F78-8162B3898489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE805D9E-EF93-424E-8F78-8162B3898489}.Release|x86.ActiveCfg = Release|Any CPU
+		{AE805D9E-EF93-424E-8F78-8162B3898489}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
