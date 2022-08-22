@@ -44,13 +44,13 @@ namespace EmployeeDataBase
             //{
             //    Console.WriteLine($"Employee FirstName : {employee.FirstName}");
             //}
-            Console.Write("Plese enter numer of employees to be added to DataBase :");
+            Console.Write("Plese enter numer of Employees to be added to DataBase :");
             int numberOfEmployees = Convert.ToInt32(Console.ReadLine());
             Employee[]employees = new Employee[numberOfEmployees];  
             for (int i = 0; i < numberOfEmployees; i++)
             {
-                Console.WriteLine($"Enter Employee{i + 1}details: ");
-                Console.Write("FirstName :");
+                Console.WriteLine($"Enter Employee{i + 1}details : ");
+                Console.Write("First Name :");
                 string fname = Console.ReadLine().Trim();
                 Console.Write("Last Name : ");
                 string lname = Console.ReadLine().Trim();
