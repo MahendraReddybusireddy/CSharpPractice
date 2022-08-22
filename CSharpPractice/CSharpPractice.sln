@@ -25,17 +25,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample Soluction", "Sample 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Separate the individual Characters from a string", "Separate the individual Characters from a string\Separate the individual Characters from a string.csproj", "{D7B0A779-FCF1-43A1-BB55-6F7123A58754}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "print individual characters of the string in reverse order", "print individual characters of the string in reverse order\print individual characters of the string in reverse order.csproj", "{293AF43A-F298-4FFB-BD59-61B319839136}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "print individual characters of the string in reverse order", "print individual characters of the string in reverse order\print individual characters of the string in reverse order.csproj", "{293AF43A-F298-4FFB-BD59-61B319839136}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string in reverse order", "string in reverse order\string in reverse order.csproj", "{87E7E716-6F4F-466B-8A50-FD6D7EAC9939}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "total number of words in string", "total number of words in string\total number of words in string.csproj", "{A51802F3-4845-4E1C-A23F-4023C26765F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "total number of words in string", "total number of words in string\total number of words in string.csproj", "{A51802F3-4845-4E1C-A23F-4023C26765F0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "total number of words in the string", "total number of words in the string\total number of words in the string.csproj", "{E0223345-C7E6-4D9A-BC08-149023C1D5E2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "number of words in the string", "number of words in the string\number of words in the string.csproj", "{E367084D-D2CB-41E7-901E-8C301D4D9480}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strings", "strings\strings.csproj", "{AE805D9E-EF93-424E-8F78-8162B3898489}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeDataBase", "EmployeeDataBase\EmployeeDataBase.csproj", "{F2CBF366-0E86-429D-939C-3239432026A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -181,6 +183,14 @@ Global
 		{AE805D9E-EF93-424E-8F78-8162B3898489}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AE805D9E-EF93-424E-8F78-8162B3898489}.Release|x86.ActiveCfg = Release|Any CPU
 		{AE805D9E-EF93-424E-8F78-8162B3898489}.Release|x86.Build.0 = Release|Any CPU
+		{F2CBF366-0E86-429D-939C-3239432026A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CBF366-0E86-429D-939C-3239432026A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2CBF366-0E86-429D-939C-3239432026A9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F2CBF366-0E86-429D-939C-3239432026A9}.Debug|x86.Build.0 = Debug|Any CPU
+		{F2CBF366-0E86-429D-939C-3239432026A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2CBF366-0E86-429D-939C-3239432026A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2CBF366-0E86-429D-939C-3239432026A9}.Release|x86.ActiveCfg = Release|Any CPU
+		{F2CBF366-0E86-429D-939C-3239432026A9}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
